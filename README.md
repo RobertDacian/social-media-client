@@ -1,5 +1,23 @@
 This repository is for the Workflow CA.
 
+# Initializing and starting the project
+
+- Clone the project and initialize git in your code editor
+
+ ```
+ git init
+ ```
+- Install Dependencies
+
+ ```
+ npm i
+ ```
+ 
+- Start the project
+
+```
+ npm run start
+ ```
 # Project Setup
 
 - Starting the project setup. Starting version 1.1.1
